@@ -9,23 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here] (https://saikattanu.github.io/files/Resume.pdf)
+[Download CV here] {% https://saikattanu.github.io/files/Resume.pdf %}
 
 Education
 ======
-* Master's in Applied Statistics and Data Science
+**Master's in Applied Statistics and Data Science**
   * Institution: Jahangirnagar University, Dhaka, Bangladesh
   * Date: 2024 (expected)
   * Courses: Data Science with Python, Multivariate Analysis, Biostatistics and Epidemiology, Time Series Analysis and  Forecasting, Environmental Statistics, Data Mining, Big Data, Categorical Data Analysis, Machine Learning for Data Science
 
-* Master's of Science(MS) in GIS for Environment and Development, 
+**Master's of Science(MS) in GIS for Environment and Development** 
   * Institution: Jahangirnagar University, Dhaka, Bangladesh
   * Date: 2018
   * CGPA: 3.79/4
   * Courses: Principles of Environment, GIS in Flood Plain and Watershed Management, GIS Application for Planners, GIS Application in Development, Urban Development, Planning and Management, Advanced Methods in GIS, Advanced Methods in Remote Sensing, Thematic Mapping in GIS
 
 
-* Bachelor of Science(B.Sc.) in Environmental Science
+**Bachelor of Science(B.Sc.) in Environmental Science**
   * Institution: Independent University, Bangladesh(IUB)
   * Date: 2016
   * CGPA: 3.19/4
@@ -47,7 +47,7 @@ Technical Skills
 Professional Experience
 ======
 **UNICEF, Bangladesh (May 2022-Present)**
-* GIS Officer
+GIS Officer
   * •	Developing an ArcGIS Online (AGOL) database as UNICEF Geospatial Repository for Bangladesh country office with different data sets
   * •	Provide documentation on analytic methodologies and approaches for reproducibility and reporting Supporting organizational strategy, change management, and capacity building
   * •	Data Management- Assist office in gathering of data, cleaning and working with data for map readiness
