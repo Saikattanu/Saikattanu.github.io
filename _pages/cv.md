@@ -9,27 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here] (https://saikattanu.github.io/files/Resume.pdf) {:target="_blank"}
+[Download CV here] (https://saikattanu.github.io/files/Resume.pdf){:target="_blank"}
 
 Education
 ======
-**Master's in Applied Statistics and Data Science**
-  **Institution:** Jahangirnagar University, Dhaka, Bangladesh
-  **Date:** 2024 (expected)
-  **Courses:** Data Science with Python, Multivariate Analysis, Biostatistics and Epidemiology, Time Series Analysis and  Forecasting, Environmental Statistics, Data Mining, Big Data, Categorical Data Analysis, Machine Learning for Data Science
+- **Master's in Applied Statistics and Data Science**
+  - **Institution:** Jahangirnagar University, Dhaka, Bangladesh
+  - **Date:** 2024 (expected)
+  - **Courses:** Data Science with Python, Multivariate Analysis, Biostatistics and Epidemiology, Time Series Analysis and  Forecasting, Environmental Statistics, Data Mining, Big Data, Categorical Data Analysis, Machine Learning for Data Science
 
-**Master's of Science(MS) in GIS for Environment and Development** 
-  **Institution:** Jahangirnagar University, Dhaka, Bangladesh
-  **Date:** 2018
-  **CGPA:** 3.79/4
-  **Courses:** Principles of Environment, GIS in Flood Plain and Watershed Management, GIS Application for Planners, GIS Application in Development, Urban Development, Planning and Management, Advanced Methods in GIS, Advanced Methods in Remote Sensing, Thematic Mapping in GIS
+- **Master's of Science(MS) in GIS for Environment and Development** 
+  - **Institution:** Jahangirnagar University, Dhaka, Bangladesh
+  - **Date:** 2018
+  - **CGPA:** 3.79/4
+  - **Courses:** Principles of Environment, GIS in Flood Plain and Watershed Management, GIS Application for Planners, GIS Application in Development, Urban Development, Planning and Management, Advanced Methods in GIS, Advanced Methods in Remote Sensing, Thematic Mapping in GIS
 
 
-**Bachelor of Science(B.Sc.) in Environmental Science**
-  **Institution:** Independent University, Bangladesh(IUB)
-  **Date:** 2016
-  **CGPA:** 3.19/4
-  **Courses:** Geographic Information System, Remote Sensing and Cartography, Air Pollution and Climate, Probability & Statistics, Environmental Law, Environmental Economics, Environmental Toxicology, People’s Participation in Environmental Management, Agro-Social Forestry, Environmental and Social impact assessment, Waste management, Water Quality Environment, Environmental Biology, Ecology and Conservation
+- **Bachelor of Science(B.Sc.) in Environmental Science**
+  - **Institution:** Independent University, Bangladesh(IUB)
+  - **Date:** 2016
+  - **CGPA:** 3.19/4
+  - **Courses:** Geographic Information System, Remote Sensing and Cartography, Air Pollution and Climate, Probability & Statistics, Environmental Law, Environmental Economics, Environmental Toxicology, People’s Participation in Environmental Management, Agro-Social Forestry, Environmental and Social impact assessment, Waste management, Water Quality Environment, Environmental Biology, Ecology and Conservation
 
 Technical Skills
 ======
