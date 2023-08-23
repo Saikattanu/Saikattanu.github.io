@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here] (https://saikattanu.github.io/files/Resume.pdf){:target="_blank"}
+<!-- [Download CV here](https://saikattanu.github.io/files/Resume.pdf){:target="_blank"} -->
 
 Education
 ======
@@ -33,15 +33,15 @@ Education
 
 Technical Skills
 ======
-*Programming Languages*: Python, SQL, PostgreSql, Javascript, jQuery Mobile, CSS & HTML 
-*Machine Learning Frameworks*: NumPy, Pandas, scikit-learn, Jupyter
-*GIS and Remote Sensing Platforms*: ESRI ArcGIS 10x, ArcGIS desktop, ArcGIS pro, ArcGIS online, QGIS, Erdas Imagine
-*Mapping software*: ArcMap, ArcScene, ArcView, Google Earth Pro 
-*Smartphone data applications*: ODK and Kobocollect
-*Statistical Analysis*: SPSS, Tableau, Power BI, GeoCLIM
-*Photo Manipulation*: Adobe Creative Suite, Lightroom
-*Video Editing*: Filmora, Camtasia Studio 8
-*Miscellneous*: MS Office, Github, Bash
+- *Programming Languages*: Python, SQL, PostgreSql, Javascript, jQuery Mobile, CSS & HTML 
+- *Machine Learning Frameworks*: NumPy, Pandas, scikit-learn, Jupyter
+- *GIS and Remote Sensing Platforms*: ESRI ArcGIS 10x, ArcGIS desktop, ArcGIS pro, ArcGIS online, QGIS, Erdas Imagine
+- *Mapping software*: ArcMap, ArcScene, ArcView, Google Earth Pro 
+- *Smartphone data applications*: ODK and Kobocollect
+- *Statistical Analysis*: SPSS, Tableau, Power BI, GeoCLIM
+- *Photo Manipulation*: Adobe Creative Suite, Lightroom
+- *Video Editing*: Filmora, Camtasia Studio 8
+- *Miscellneous*: MS Office, Github, Bash
 
 
 Professional Experience
